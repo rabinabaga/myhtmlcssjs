@@ -1,2 +1,2 @@
-var testdata = "testing js"
-console.log(testdata);
+let time=document.getElementById("current-time");
+console.log(time);
