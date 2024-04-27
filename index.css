@@ -1,0 +1,18 @@
+/* body {
+  background-color: tomato;
+  color: white;
+} */
+a {
+  color: white;
+  text-decoration: none;
+}
+a:nth-child(2) {
+  color: red;
+}
+.time-text{
+    color:gray;
+}
+#product-name{
+    font-weight: 500;
+    font-size: 1.6em;
+}
