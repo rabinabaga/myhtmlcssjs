@@ -23,3 +23,10 @@ a:nth-child(2) {
   font-size: larger;
   color: green;
 }
+
+.separation{
+  background-color: gray;
+}
+.units-title{
+  display: inline-block;
+}
