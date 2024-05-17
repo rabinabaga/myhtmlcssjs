@@ -30,3 +30,12 @@ a:nth-child(2) {
 .units-title{
   display: inline-block;
 }
+ .newpara {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
+}
+
+.diva:hover .newpara {
+  display: block;
+}
